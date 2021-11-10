@@ -77,7 +77,7 @@ const Aline = () => {
             <img className="center" src="./sliders/paraempresa.svg" height="280px" />
           </div>
           <div className="links">
-          <h3 className="titulo">Para a sua empresa</h3>
+          <h3 className="titulo">Para a sua empresa Aline </h3>
           <div className="sub">
               Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
           </div>

@@ -33,7 +33,6 @@ const Header = () => {
   useEffect(() => {
     console.log(router.asPath);
   }, [router.asPath]);
-
   return (
     <>
       <header>
@@ -67,8 +66,6 @@ const Header = () => {
               </ul>
             </nav>
           </div>
-
-
         </div>
         <div className={`menu-scroll ${sidebar ? "show" : "hidden"}`}>
           <nav>
